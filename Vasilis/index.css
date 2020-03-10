@@ -1,0 +1,12 @@
+.list-item {
+    color: blue;
+}
+.heading {
+    color: crimson;
+}
+#element1 {
+    background-color: darkorange;
+}
+#element2 {
+    background-color: rgba(247, 212, 17, 0.6);
+}
