@@ -1,0 +1,17 @@
+.list-item {
+    color: aqua;
+}
+.heading{
+    color: red;
+
+}
+#one{
+    background-color: slateblue;
+}
+#two{
+    background-color: green ;
+}
+#opecity{
+    opacity: 0.5;
+    color: hotpink;
+}
