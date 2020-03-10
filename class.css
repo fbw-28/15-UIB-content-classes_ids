@@ -1,0 +1,16 @@
+ul.list-item{
+    color: chartreuse;
+}
+
+h1{
+    background-color: violet;
+    font-weight: 500;
+}
+
+h2.first{
+    color: red;
+}
+
+h2.second{
+    background-color: green;
+}
