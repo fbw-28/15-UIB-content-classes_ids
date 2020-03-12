@@ -1,0 +1,19 @@
+li {
+    color: purple;
+}
+
+h2 {
+    color: red;
+}
+
+#basecolor {
+    color: unset;
+}
+
+#purple { 
+    background-color: rgba(128, 0, 128, .8);
+}
+
+#green {
+    background-color: rgba(0, 128, 0, .8);
+}
