@@ -1,0 +1,28 @@
+ul.list-item{
+    color: rgb(68, 9, 58);
+}
+
+h1{
+    background-color: violet;
+   
+}
+
+h2.first{
+    color: red;
+}
+
+h2.second{
+    background-color: green;
+}
+.list-item {
+     color: firebrick;
+}
+
+#natia {
+
+    background-color: gold;
+}
+h1, h2 {
+    color: indigo;
+    font-weight: 500;
+}
